@@ -1,9 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Trivedi&fontSize=40&fontAlignY=35&animation=twinkling"/>
+
 <h1 align="center">Hi 👋, I'm Aryan Trivedi</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast 🇮🇳</h3>
 
 <p align="center">
-A passionate Full Stack Developer with experience in building scalable, secure, and user-friendly web applications using modern technologies across frontend, backend, and cloud.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Spring+Boot;MERN+Stack+Developer;Cloud+%7C+DevOps+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
+---
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+### 🚀 About Me
+- 🔭 I build scalable Full Stack Applications  
+- 🌱 Currently exploring AI & Cloud Technologies  
+- 💡 Strong in Angular, React, Spring Boot & MERN  
+- 🧠 Love solving real-world problems  
+- 📫 Reach me on LinkedIn  
 
 ---
 
@@ -28,7 +41,7 @@ A passionate Full Stack Developer with experience in building scalable, secure, 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
@@ -51,34 +64,35 @@ A passionate Full Stack Developer with experience in building scalable, secure, 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 </p>
 
-### 🧪 Tools & Others
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-</p>
-
 ---
 
-## 🧩 Projects & Portfolio
-🔗 **Portfolio:** [https://godera.netlify.app/](https://godera.netlify.app/)
+## 🧩 Projects
+🔗 Portfolio: https://godera.netlify.app/
 
-- Full Stack Banking Portal (Angular + Spring Boot + MySQL)
-- MERN Stack Applications
-- Android Games using LibGDX
-- Computer Vision Projects using OpenCV
-- REST APIs with Authentication & Authorization
+- 💳 Full Stack Banking Portal (Angular + Spring Boot + MySQL)
+- 🌐 MERN Stack Applications
+- 🎮 Android Games using LibGDX
+- 👁️ Computer Vision Projects (OpenCV)
+- 🔐 Secure REST APIs with JWT Authentication
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan3315&show_icons=true&theme=react" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3315&layout=compact&theme=react" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan3315&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan3315&theme=tokyonight" width="48%" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3315&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/Aryan3315/Aryan3315/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -91,4 +105,4 @@ A passionate Full Stack Developer with experience in building scalable, secure, 
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐️ *Always Learning | Always Building | Always Improving*
