@@ -88,14 +88,12 @@ Full Stack Developer with hands-on experience in building scalable, secure, and 
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan3315&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+<p align="center>
   <img src="https://streak-stats.demolab.com?user=Aryan3315&theme=tokyonight" width="48%" />
 </p>
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="YOUR_WORKING_STATS_CARD" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Aryan3315&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aryan3315&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ## 📈 Contribution Graph
